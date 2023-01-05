@@ -38,16 +38,17 @@ Here's a data dictionary of cleaned up dataframe for a quick overview of feature
 
 Weather data explorations show that Singapore has an abundant rainfall across the years of study. In general, we observe a repeated pattern of distribution in total rainfall over the year for the period of 2014-2018. The lowest total rainfall usually happens in Q1 and the opposite usually happens in Q4. There are however exceptions. For instance, the lowest rainfall month in 2017 is in July. It is likely the total rainfall is related to the number of rainy days. If a month has the highest total number rainy days in that year, it is very possible the same month also has the highest total rainfall. The opposite is seems true as well. But there are outliners. In 2018, November has the highest total number of rainy days of 27, yet January outperforms November in terms of total rainfall.
 
+----
 ![hist_rainfall](./code/hist_rainfall.png)
 
 It is oberved the distribution of monthly rainfall in Singapore is skewed right, indicating the mode value (the value with the highest number of occurances) lower than the mean. It means that Singapore has more months with lower than 142mm rainfall.
-----
 
+----
 ![rainfall_days](./code/rainfall_days.png)
 
 The scatterplot of total rainfall against the number of rainy days shows a significant positive correlation. It makes sense to observe a higher rainfall amount during a month with more rainy days.
 
-
+----
 ![map_temp.png](./code/map_temp.png)
 ![map_rh.png](./code/map_rh.png)
 
@@ -57,7 +58,7 @@ For the period of analysis, the average daily minimum temperature Singapore fall
 From our experiences, the temperature can rise up to 8°C on a typical day in Singapore. This gives the daily temperature range that coincides with the optimum average temperature for mosquito growth (25–30 °C).
 High humidity in Singapore can also lead to favourable habitat for mosquito breedings.
 
-
+----
 ![heatmap_fig](./code/heatmap_fig.png)
 
 However, by analysing the correlations between data features using heatmap and pairplot, it is observed that for the period of analysis, no strong correlation is shown between weather metrics and dengue case numbers in Singapore.
