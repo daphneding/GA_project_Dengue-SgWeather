@@ -41,16 +41,17 @@ Weather data explorations show that Singapore has an abundant rainfall across th
 ![hist_rainfall](./code/hist_rainfall.png)
 
 It is oberved the distribution of monthly rainfall in Singapore is skewed right, indicating the mode value (the value with the highest number of occurances) lower than the mean. It means that Singapore has more months with lower than 142mm rainfall.
-
+----
 
 ![rainfall_days](./code/rainfall_days.png)
 
 The scatterplot of total rainfall against the number of rainy days shows a significant positive correlation. It makes sense to observe a higher rainfall amount during a month with more rainy days.
 
-The visualisations of weather data also show a relatively constant high temperature and high humidity in Singapore throughout the years.
 
 ![map_temp.png](./code/map_temp.png)
 ![map_rh.png](./code/map_rh.png)
+
+The visualisations of weather data as the above also show a relatively constant high temperature and high humidity in Singapore throughout the years.
 
 For the period of analysis, the average daily minimum temperature Singapore falls within the range of 24-26.5°C and the relative humidity is in between 70% to 90%.
 From our experiences, the temperature can rise up to 8°C on a typical day in Singapore. This gives the daily temperature range that coincides with the optimum average temperature for mosquito growth (25–30 °C).
