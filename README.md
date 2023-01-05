@@ -63,17 +63,17 @@ However, by analysing the correlations between data features using heatmap and p
 
 Reasons for such mis-alignment may include:
 
-**Data Limitations
+**Data Limitations**
 
 Computation of dengue case numbers: The original dataset of dengue case numbers is based on weekly numbers. The conversion into monthly numbers (without clearly defining the datetime) may lead to inaccurate monthly data. Dengue data will be more reliable if it is collected on a daily basis.
 
 On the other hand, a larger dataset of longer period of study, or a wider geographical range beyond Singapore may provide a higher variance in the data for the study.
 
-**Knowledge Limitations
+**Knowledge Limitations**
 
 Lagged response (ranged from weeks to months) of dengue cases from weather changes remains unknown. Further studies can be conducted for varied lagged period, to find out if there is a stronger correlation between dengue case numbers and weather metrics. Alternatively, if any specific lag is scientifically proven, for example we know for sure dengue case numbers only rise within two weeks after certain weather changes, correlation can be shown using dengue data two weeks behind the weather data.
 
-**Other important factors contributing to the dengue cases beyond the reach of this project
+**Other important factors contributing to the dengue cases beyond the reach of this project**
 
 Surge of Zika (and other related virus) cases may be related to the dengue case numbers in Singapore.
 
