@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project: Data Analysis of Singapore Weather in relation to Dengue Cases
 
-### Background
+## Background
 
 According to the Meteorological Services Singapore, Singapore has typical tropical climate with adundant rainfall, high and uniform temperatures and high humidity all year round, since its situated near the equator. There are other metrics of climate such as sun shine duration, wind speed, cloud cover etc. In this project, we will look into the data sets based on the three core metrics - rainfall, temperature and humidity which are believed to responsible in relation to the increase of dengue cases in the country.
 
@@ -9,13 +9,13 @@ According to the Meteorological Services Singapore, Singapore has typical tropic
 
 ---
 
-### Problem Statement
+## Problem Statement
 
 *To provide insights using weather and dengue case data for National Environment Agency's dengue awareness campaigns.* 
 
 ---
 
-### Datasets
+## Datasets
 
 All the datasets used in the project come from [data.gov.sg](data.gov.sg).
 
@@ -34,7 +34,7 @@ Here's a data dictionary of cleaned up dataframe for a quick overview of feature
 
 ---
 
-#### Summary
+## Project Summary
 
 Weather data explorations show that Singapore has an abundant rainfall across the years of study. In general, we observe a repeated pattern of distribution in total rainfall over the year for the period of 2014-2018. The lowest total rainfall usually happens in Q1 and the opposite usually happens in Q4. There are however exceptions. For instance, the lowest rainfall month in 2017 is in July. It is likely the total rainfall is related to the number of rainy days. If a month has the highest total number rainy days in that year, it is very possible the same month also has the highest total rainfall. The opposite is seems true as well. But there are outliners. In 2018, November has the highest total number of rainy days of 27, yet January outperforms November in terms of total rainfall.
 
@@ -59,7 +59,7 @@ However, by analysing the correlations between data features using heatmap and p
 
 ---
 
-#### Conclusions and Recommendations
+## Conclusions and Recommendations
 
 Reasons for such mis-alignment may include:
 
@@ -83,7 +83,7 @@ Due to the limitations of the research findings out of this project, that is no 
 
 ---
 
-#### Outside Research and References
+## Outside Research and References
 
 - ["Singapore’s dengue ‘emergency’ is a climate change omen for the world"](https://edition.cnn.com/2022/06/06/asia/health-dengue-singapore-emergency-climate-heat-intl-hnk/index.html)
 - ["Impact of extreme weather on dengue fever infection in four Asian countries: A modelling analysis"](https://www.sciencedirect.com/science/article/pii/S0160412022004457)
