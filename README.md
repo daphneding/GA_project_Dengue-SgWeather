@@ -5,7 +5,6 @@
 
 
 ## Background
-
 According to the Meteorological Services Singapore, Singapore has typical tropical climate with adundant rainfall, high and uniform temperatures and high humidity all year round, since its situated near the equator. There are other metrics of climate such as sun shine duration, wind speed, cloud cover etc. In this project, we will look into the data sets based on the three core metrics - rainfall, temperature and humidity which are believed to responsible in relation to the increase of dengue cases in the country.
 
 ![Screenshot_20230104_091158.png](./img/Screenshot_20230104_091158.png)
