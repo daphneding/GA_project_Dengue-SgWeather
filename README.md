@@ -51,8 +51,7 @@ It is oberved the distribution of monthly rainfall in Singapore is skewed right,
 The scatterplot of total rainfall against the number of rainy days shows a significant positive correlation. It makes sense to observe a higher rainfall amount during a month with more rainy days.
 
 ---
-![map_temp.png](./code/map_temp.png)
-![map_rh.png](./code/map_rh.png)
+![temp_rh.png](./code/temp_rh.png)
 
 The visualisations of weather data as the above also show a relatively constant high temperature and high humidity in Singapore throughout the years.
 
@@ -65,6 +64,8 @@ High humidity in Singapore can also lead to favourable habitat for mosquito bree
 
 However, by analysing the correlations between data features using heatmap and pairplot, it is observed that for the period of analysis, no strong correlation is shown between weather metrics and dengue case numbers in Singapore.
 
+![dengue_number](./code/dengue_number.png)
+Steps are taken to further understand the dengue case numbers over the period of the study. It is realised that an usual turn  in 2017 may cause a high variance of the dataset and in turn lead to mis-alignment between the hypothesis (ie. strong correlation exists between weather features and the dengue cases) and the actual outcome (ie. weak correlation is observed). 
 
 
 ----
