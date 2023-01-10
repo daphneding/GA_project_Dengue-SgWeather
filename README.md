@@ -65,8 +65,10 @@ High humidity in Singapore can also lead to favourable habitat for mosquito bree
 
 However, by analysing the correlations between data features using heatmap and pairplot, it is observed that for the period of analysis, no strong correlation is shown between weather metrics and dengue case numbers in Singapore.
 
+---
 ![dengue_number](./code/dengue_number.png)
-Steps are taken to further understand the dengue case numbers over the period of the study. It is realised that an usual turn  in 2017 may cause a high variance of the dataset and in turn lead to mis-alignment between the hypothesis (ie. strong correlation exists between weather features and the dengue cases) and the actual outcome (ie. weak correlation is observed). 
+
+Further steps are taken to understand the dengue case numbers over the period of the study. It is realised that an usual turn  in 2017 may cause a high variance of the dataset and in turn lead to mis-alignment between the hypothesis (ie. strong correlation exists between weather features and the dengue cases) and the actual outcome (ie. weak correlation is observed). 
 
 
 ----
