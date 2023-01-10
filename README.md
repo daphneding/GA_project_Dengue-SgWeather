@@ -71,6 +71,11 @@ However, by analysing the correlations between data features using heatmap and p
 Further steps are taken to understand the dengue case numbers over the period of the study. It is realised that an usual turn  in 2017 may cause a high variance of the dataset and in turn lead to mis-alignment between the hypothesis (ie. strong correlation exists between weather features and the dengue cases) and the actual outcome (ie. weak correlation is observed). 
 
 
+---
+![dengue_monthly_number](./code/dengue_monthly_number.png)
+
+Although the dengue yearly numbers do not tell a good story, a pattern of monthly number distribution is observed from the dataset. Jan, and May-July period are seen as the peak periods for the period of our study. However, due to the high variance of data in 2017 and 2018 used for the analysis. It is important to make cross references and verify if the peaks observed are generic. 
+
 ----
 
 ## Conclusions and Recommendations
