@@ -13,7 +13,7 @@ According to the Meteorological Services Singapore, Singapore has typical tropic
 
 ## Problem Statement
 
-*To provide insights using weather and dengue case data for National Environment Agency's dengue awareness campaigns.* 
+*To provide insights and recommendations for National Environment Agency's dengue awareness campaigns using weather and dengue case data.* 
 
 ----
 
